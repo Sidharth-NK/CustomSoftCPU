@@ -1,5 +1,3 @@
-0
- 
 `timescale 1ns / 1ps
 
 ///////////fields of IR
@@ -30,8 +28,6 @@
 
 
 module top();
-
-
 
 
 
